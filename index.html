@@ -15,6 +15,11 @@ $('body').terminal({
 }, {
     greetings: 'My First Web Terminal'
 });
+    $('body').terminal({
+    cat: function() {
+        this.echo($('<img src="https://placekitten.com/408/287">'));
+    }
+});
 </script>
 </body>
 </html>
