@@ -1,5 +1,4 @@
-@@ -0,0 +1,401 @@
-/**
++/**
  * WinBox.js v0.1.8 (Bundle)
  * Copyright 2021 Nextapps GmbH
  * Author: Thomas Wilkerling
