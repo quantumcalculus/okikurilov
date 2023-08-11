@@ -1,5 +1,4 @@
-@@ -0,0 +1,77 @@
-const about = document.querySelector('#about')
++const about = document.querySelector('#about')
 const contact = document.querySelector('#contact')
 const aboutContent = document.querySelector('#about-content')
 const contactContent = document.querySelector('#contact-content')
