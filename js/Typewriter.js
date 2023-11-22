@@ -1,9 +1,9 @@
 +var aText = new Array(
-    "hi, i'm ron", // add your text
-    "a web developer", // add your text
-    "based in riga, latvia", // add your text
-    "i drink lot of tea", // add your text
-    "and build beautiful websites" // add your text
+    "hi, i'm oliver", 
+    "a web developer", 
+    "based in moscow/la/cambridge", 
+    "i drink lot of tea", 
+    "and ocassionally build websites" 
     );
     var iSpeed = 100; 
     var iIndex = 0; 
